@@ -41,7 +41,6 @@ export default class App extends Component {
           <InputReadOnly label="Salário líquido" value={netSalary} percentage={percentNetSalary} color={COLOR_NET_SALARY} />
         </div>
         <ProportionBar inss={percentINSS} irpf={percentIRPF} netSalary={percentNetSalary} colorINSS={COLOR_INSS} colorIRPF={COLOR_IRPF} colorNetSalary={COLOR_NET_SALARY} />
-
       </div>
     )
   }
