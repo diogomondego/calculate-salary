@@ -1,0 +1,26 @@
+#insta{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 5%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#insta a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+@media (max-width: 600px) {
+    .box{
+        width: 80vw;
+        margin: 0 auto;
+    }
+    .espaco{
+        min-width: 90px;
+    }
+}
