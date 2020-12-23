@@ -18,4 +18,4 @@ You will also see any lint errors in the console.
 
 ### ReactJS - Javascript library to build interfaces
 
-#### Class Components
+- #### Class Components
