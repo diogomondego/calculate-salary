@@ -16,11 +16,8 @@
 }
 
 @media (max-width: 600px) {
-    .box{
-        width: 80vw;
-        margin: 0 auto;
-    }
-    .espaco{
-        min-width: 90px;
+    #insta{
+        position: relative;
+        width: max-content;
     }
 }
