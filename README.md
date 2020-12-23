@@ -1,6 +1,6 @@
 # React Calculate Salary
 
-In this app you will know how much you are contributing to your inss and your irpf, removing the value of your gross salary until you find the net salary.
+In this app you will know how much you are contributing to your INSS and your IRPF, removing the value of your gross salary until you find the net salary.
 
 ## Available Scripts
 
