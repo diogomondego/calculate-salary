@@ -29,7 +29,7 @@ export default class App extends Component {
 
     return (
       <div className="container">
-        <h1 className='center'>Salário Líquidoo</h1>
+        <h1 className='center'>Salário Líquido</h1>
         <div className='row'>
           <InputFullSalary currentValue={fullSalary} onSalaryChange={this.handleFullSalaryChange} />
         </div>
