@@ -6,6 +6,7 @@ In this app you will know how much you are contributing to your INSS and your IR
 
 In the project directory, you can run:
 
+### `yarn install`
 ### `yarn run dev`
 
 Runs the app in the development mode.<br />
