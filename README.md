@@ -23,4 +23,4 @@ You will also see any lint errors in the console.
 
 ## Production
 
-You can see the app in production on link <a href="https://calcular-salario.herokuapp.com/">calcular-salario.herokuapp.com/</a>
+You can see the app in production on link <a href="https://calcular-salario.herokuapp.com/">calcular-salario.herokuapp.com</a>
