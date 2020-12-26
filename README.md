@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 
 ## Features
 
-<p><span weight="bold" style="font-weight: bold; font-size: 1.5em">ReactJS</span> - Javascript library to build interfaces</p>
+<strong>ReactJS</strong> - Javascript library to build interfaces
 
 - #### Class Components
 
