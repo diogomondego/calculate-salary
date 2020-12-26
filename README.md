@@ -1,3 +1,7 @@
+<h1 align="center">React Calculate Salary</h1>
+
+<p align="center">In this app you will know how much you are contributing to your INSS and your IRPF, removing the value of your gross salary until you find the net salary.</p>
+
 # React Calculate Salary
 
 In this app you will know how much you are contributing to your INSS and your IRPF, removing the value of your gross salary until you find the net salary.
@@ -23,6 +27,6 @@ You will also see any lint errors in the console.
 
 ## Production
 
-You can see the app in production on GitHub Pages: [https://diogomondego.github.io/calculate-salary/](diogomondego.github.io/calculate-salary)
-Or
+You can see the app in production on GitHub Pages: [diogomondego.github.io/calculate-salary](https://diogomondego.github.io/calculate-salary/)</br>
+Or</br>
 You can see the app in production on Heroku <a href="https://calcular-salario.herokuapp.com/">calcular-salario.herokuapp.com</a>
