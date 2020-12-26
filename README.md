@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 
 ## Features
 
-### <strong>ReactJS</strong> - Javascript library to build interfaces
+### ReactJS - Javascript library to build interfaces
 
 - #### Class Components
 
