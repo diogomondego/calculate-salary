@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dfe18a0b4b538ad653ed5695fe32aca",
+    "revision": "d60a3b7cc6fb7c218f02f5bcf1888399",
     "url": "/calculate-salary/index.html"
   },
   {
